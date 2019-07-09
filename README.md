@@ -2,6 +2,8 @@
 
 Python Dev CLI Environment for Windows(Click Package)
 
+![](./images/click-python.gif)
+
 
 ## Requirements
 
