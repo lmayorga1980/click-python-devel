@@ -1,4 +1,4 @@
-## Python CLI with Click
+## Python Windows CLI with Click
 
 Python Dev CLI Environment for Windows(Click Package)
 
@@ -8,7 +8,8 @@ Python Dev CLI Environment for Windows(Click Package)
 ## Requirements
 
 * Install Git/Git-bash.(Using Gitbash Terminal)
-* Install Python 3.7.x
+* Install Chocolatey(optional)
+* Install Python `3.7.x` - `choco install python -y`
 * Install virtualenv `pip install virtualenv`
 * Create a virtual environment `virtualenv venv`
 * Activate the virtual environment `.\venv\Scripts\activate.bat`
